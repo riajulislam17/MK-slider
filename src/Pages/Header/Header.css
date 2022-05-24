@@ -1,0 +1,9 @@
+.logo-area{
+    height: 50px;
+    width: 50px;
+    border: 3px solid gray;
+    transform: rotate(45deg);
+}
+.logo-text{
+    transform: rotate(-45deg);
+}

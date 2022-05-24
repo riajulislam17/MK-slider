@@ -1,0 +1,13 @@
+.bg-contact{
+    height: 100%;
+    border-left: 25px solid #37065D;
+}
+.email{
+    color: #37065D;
+}
+.email-text{
+    color: tomato;
+}
+.btn-submit{
+    background-color: tomato;
+}
